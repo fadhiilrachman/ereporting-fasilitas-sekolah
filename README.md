@@ -11,7 +11,7 @@ This work made for thesis with Simple Additive Weighting algorithm and research 
 ## Requirement
 
 - [x] PHP ^7.x
-- [x] MariaDB or MariaDB
+- [x] MySQL or MariaDB
 - [x] Composer
 
 ## Installation
