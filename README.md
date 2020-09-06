@@ -1,5 +1,16 @@
-# eReporting
+# eReporting Fasilitas Sekolah
 
+*School Facilities Reporting*
+
+----
+
+## Overview
 Case study: SMA Negeri 29 Jakarta
 
-School Facilities Reporting
+## Requirement
+- [x] PHP 7.*
+- [x] MySQL
+- [x] Composer
+
+## Author
+Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)
